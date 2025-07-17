@@ -1,3 +1,13 @@
+"""
+⚠️ DISCLAIMER:
+This web scraping tool is intended for educational purposes only. Users are responsible for:
+1. Complying with target website terms of service
+2. Respecting robots.txt directives
+3. Adhering to all applicable laws (copyright, data protection, CFAA, etc.)
+4. Avoiding scraping of private or sensitive information
+
+Misuse of this software may result in legal consequences. The developers assume no liability for improper use.
+"""
 import logging
 import sys
 import time
