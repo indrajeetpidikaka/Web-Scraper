@@ -1,6 +1,51 @@
 ## README.md
 
 ```markdown
+
+## ⚠️ Disclaimer: Ethical and Legal Considerations
+
+This web scraping tool is intended for **educational purposes only**. Users must comply with all applicable laws and regulations regarding web scraping, including:
+
+1. **Respect for Website Terms of Service**:
+   - Always review a website's Terms of Service (ToS) before scraping
+   - Many websites explicitly prohibit scraping in their ToS
+   - Violating ToS may result in legal action or permanent bans
+
+2. **Adherence to robots.txt**:
+   - The scraper automatically checks robots.txt files
+   - Avoid scraping disallowed paths and resources
+   - Respect crawl-delay directives
+
+3. **Legal Compliance**:
+   - Scraping certain types of data may violate:
+     - Copyright laws
+     - Data protection regulations (GDPR, CCPA, etc.)
+     - Computer Fraud and Abuse Act (CFAA) in the US
+   - Never scrape personally identifiable information (PII)
+   - Avoid scraping financial data without explicit permission
+
+4. **Ethical Considerations**:
+   - Do not overload servers with excessive requests
+   - Maintain reasonable request rates (add delays between requests)
+   - Scrape only publicly available data
+   - Consider the privacy implications of collected data
+
+5. **Prohibited Content**:
+   - Do not scrape:
+     - Copyrighted content without permission
+     - Private user data
+     - Login-protected content
+     - Government/military websites (.gov, .mil domains)
+     - Sites containing illegal content
+
+**Important**: The developers of this software are not responsible for:
+- Any misuse of this tool
+- Legal consequences resulting from improper use
+- Damage caused to target websites
+- Violations of terms of service or privacy laws
+
+Use this tool responsibly and at your own risk. When in doubt, consult with legal professionals before scraping any website.
+
 # Web Scraper
 
 ![Web Scraping](https://img.shields.io/badge/Web-Scraping-blue)
