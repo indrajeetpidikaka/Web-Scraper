@@ -30,3 +30,5 @@ MAX_RETRIES = 5
 # Selenium WebDriver settings
 SELENIUM_HEADLESS = False # Run browser in headless mode
 SELENIUM_WAIT_TIMEOUT = 30 # Max time to wait for page elements to load
+
+PROXY_LIST = []
